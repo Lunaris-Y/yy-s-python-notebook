@@ -8,6 +8,12 @@
 
 ## 什么是 Python
 
+简单 易学 开发效率高
+
+上层：python 下层：c cpp
+
+
+
 Python 是一种语法清晰、容易入门的编程语言。它可以用于自动化、数据分析、人工智能、网站开发等领域。
 
 Python 程序通常保存在扩展名为 `.py` 的文件中，例如：
@@ -17,6 +23,10 @@ hello.py
 ```
 
 ## 第一段 Python 代码
+
+打开cmd程序，通过python输出
+
+执行出现：syntaxerror:invalid character:说明代码中的符号是中文符号
 
 ```python
 print("Hello, Python!")
@@ -29,6 +39,16 @@ print("Hello, Python!")
 ```text
 Hello, Python!
 ```
+
+## 关于python解释器
+
+什么是python解释器？在安装包里有一个python.exe
+
+用命令提示符python 本质上就是调用python解释器的过程
+
+写完一行代码回车就会立刻运行 如何运行多行代码？：新建test.py文件 在命令提示符程序内用python命令运行
+
+
 
 ## 添加注释
 
